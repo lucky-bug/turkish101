@@ -1,0 +1,61 @@
+@font-face {
+    font-family: "PacificoEN";
+    src: url(../fonts/PacificoEN.woff2) format("woff2");
+}
+
+@font-face {
+    font-family: "PacificoTR";
+    src: url(../fonts/PacificoTR.woff2) format("woff2");
+}
+
+@font-face {
+    font-family: "PacificoRU";
+    src: url(../fonts/PacificoRU.woff2) format("woff2");
+}
+
+@font-face {
+    font-family: "PacificoTJ";
+    src: url(../fonts/PacificoTJ.woff2) format("woff2");
+}
+
+.reveal * {
+    font-family: "PacificoEN", "PacificoTR", "PacificoRU", "PacificoTJ", Ubuntu, sans-serif !important;
+}
+
+.red {
+    color: #ff2c2d !important;
+}
+
+.green {
+    color: #17ff2e !important;
+}
+
+.blue {
+    color: #1b91ff !important;
+}
+
+.orange {
+    color: orange !important;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.full-height {
+    height: 100%;
+}
+
+table *:not(caption) {
+    font-size: 32px;
+}
+
+.flex-row {
+    display: flex;
+    justify-items: stretch;
+}
+
+.flex-row > * {
+    flex: 1 0;
+    margin: 0 4px !important;
+}

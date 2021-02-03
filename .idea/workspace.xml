@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60a899a7-98d2-4c48-a182-45892f09a6ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/000.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/003.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/005.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/006.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/007.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/009.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/011.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1n46YxJ8ZhaVn5ltcxjQn7lXuHg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/fonts" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60a899a7-98d2-4c48-a182-45892f09a6ad" name="Default Changelist" comment="" />
+      <created>1610637066857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610637066857</updated>
+      <workItem from="1610637067969" duration="8891000" />
+      <workItem from="1610731938893" duration="5328000" />
+      <workItem from="1610820018667" duration="22357000" />
+      <workItem from="1610880093433" duration="1404000" />
+      <workItem from="1611152586068" duration="7571000" />
+      <workItem from="1611245925374" duration="2011000" />
+      <workItem from="1611316932690" duration="18361000" />
+      <workItem from="1611349619369" duration="1502000" />
+      <workItem from="1612018774453" duration="521000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="759" y="237" width="391" height="640" key="RollbackChangesDialog" timestamp="1610640622454">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="759" y="237" width="391" height="640" key="RollbackChangesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1610640622454" />
+    <state x="651" y="263" width="618" height="580" key="find.popup" timestamp="1610638802205">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="651" y="263" width="618" height="580" key="find.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1610638802205" />
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1610846805439">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1610846805439" />
+  </component>
+</project>
